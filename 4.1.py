@@ -16,3 +16,6 @@ def strcounter(s):
     for sym, count in syms_cunter.items():
         print(sym, count)
 strcounter('abckfaa')
+
+
+#fdglolgfoifgdlgoflfgo
